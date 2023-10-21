@@ -1,0 +1,29 @@
+@startuml name
+title Product Model
+class Object
+class Product{
+    -name
+    -price
+    -quantity
+    --
+    +getName():string
+    +getName():string
+    +getName():string
+    --
+    +getName(value):void
+    +getName(value):void
+    +getName(value):void
+    --
+    +Product(name,price, quantity)
+
+}
+
+class ProductHelper{
+    +createItemFromText()
+    +getBalance()
+}
+product -up-|> Object <<extends>>
+ProductHelper -left-|> Object <<extends>>
+hide empty members
+
+@enduml

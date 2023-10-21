@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\bin\Debug\net7.0\_4.Bolum.exe
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\bin\Debug\net7.0\_4.Bolum.deps.json
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\bin\Debug\net7.0\_4.Bolum.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\bin\Debug\net7.0\_4.Bolum.dll
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\bin\Debug\net7.0\_4.Bolum.pdb
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\obj\Debug\net7.0\_4.Bolum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\obj\Debug\net7.0\_4.Bolum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\obj\Debug\net7.0\_4.Bolum.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\obj\Debug\net7.0\_4.Bolum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\obj\Debug\net7.0\_4.Bolum.dll
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\obj\Debug\net7.0\refint\_4.Bolum.dll
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\obj\Debug\net7.0\_4.Bolum.pdb
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\obj\Debug\net7.0\_4.Bolum.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_4.Bolum\obj\Debug\net7.0\ref\_4.Bolum.dll
