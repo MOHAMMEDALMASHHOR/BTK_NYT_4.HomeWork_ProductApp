@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\bin\Debug\net7.0\Inheritance_prctice.exe
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\bin\Debug\net7.0\Inheritance_prctice.deps.json
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\bin\Debug\net7.0\Inheritance_prctice.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\bin\Debug\net7.0\Inheritance_prctice.dll
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\bin\Debug\net7.0\Inheritance_prctice.pdb
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\obj\Debug\net7.0\Inheritance_prctice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\obj\Debug\net7.0\Inheritance_prctice.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\obj\Debug\net7.0\Inheritance_prctice.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\obj\Debug\net7.0\Inheritance_prctice.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\obj\Debug\net7.0\Inheritance_prctice.dll
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\obj\Debug\net7.0\refint\Inheritance_prctice.dll
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\obj\Debug\net7.0\Inheritance_prctice.pdb
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\obj\Debug\net7.0\Inheritance_prctice.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\BTK_NTY_Uygulamalr\_5.Bolum\Porject_5\Inheritance_prctice\obj\Debug\net7.0\ref\Inheritance_prctice.dll

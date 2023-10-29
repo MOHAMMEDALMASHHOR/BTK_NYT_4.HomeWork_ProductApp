@@ -1,0 +1,22 @@
+@startuml Inhertance
+title school_staff
+class Person{
+    Name:string
+    Age:int
+    ShowIformation():string
+}
+class Teacher{
+    Ders:string
+}
+class student{
+    Id:int
+}
+class Assistant{
+    Salary:double
+    ShowSubect():string
+}
+Teacher -up-> Person
+student -up-> Person
+Assistant-up->Teacher
+hide empty members
+@enduml
